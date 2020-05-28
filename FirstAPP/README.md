@@ -19,3 +19,4 @@ For more information about the sample see [Create a Single Page Xamarin.Forms Ap
 
 ![Notes (single page) application screenshot](Screenshots/01All.png "Notes (single page) application screenshot")
 
+czxczxczczxczxcxzc xz xc
